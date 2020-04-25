@@ -1,5 +1,5 @@
 # DUALbooks
-Quick access to user&context-relevant experts advise, in1touch of public library book
+Quick access to user&context-relevant experts advise, in1touch of public library book / PL book / oeBook / Open Europe book.
 
 MyData IndiviDUALbooks. Proof-of-concept.
 
@@ -30,7 +30,7 @@ A physical - with UNIQUE user-related content - oeBook is home delivered in hour
 engaging even digitally illiterate users by human-centric & optimal learning (paper) form factor, 
 associated with TRUSTED (PL) experiences,
 
-relevant to context of the unique user/'crisis patient': see slides 16, 28 of oeBooks presentation
+relevant to the context of the unique user/'crisis patient': see slides 16, 28 of oeBooks presentation
 
 https://bit.ly/oeBookSlides4Aalto;
 
@@ -44,5 +44,5 @@ NB: oeBooks are less costly than via legacy business models of book production &
 IndiviDUALbook/oeBook (Open Europe book), is on-demand SECURELY printed, with AI & Digital Ledger-powered UpCode/DUAL stickers, 
 for safe Peer2Peer circular economy closed loop cycling, beyond Public Libraries/PL: without (costly for taxpayer) librarians manual jobs.
 
-About other sub-systems (1-8) - see GitHub, full version:
+About oeBook sub-systems (1-8) - see GitHub, full version of DUALbooks / MyData IndiviDUALbooks:
 https://devpost.com/software/individualbooks.
